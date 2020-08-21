@@ -64,4 +64,3 @@ void mx_race00(int map_length, int map_width, int one_y, int one_x) {
     draw_field(map_length, map_width, one_y, one_x);
     draw_fence(map_width);
 }
-
